@@ -1,8 +1,8 @@
 # ShieldUp Campus
 
-A one-page React website for a fictional brand that teaches students practical cyber-safety skills.
+A one-page React website for ShieldUp Campus, a fictional brand that teaches secondary school and university students practical cyber-safety skills on their phones.
 
-**Live site:** (add your Vercel link here)
+**Live site:** https://shieldup-campus.vercel.app/
 
 **Tools:** React (Vite), JavaScript, plain CSS with CSS variables
 
@@ -27,6 +27,7 @@ Illustrations are simple SVG icons created for this project.
 
 ## Challenge I solved
 
-(Write one real challenge you faced and how you fixed it.)
+I built this project entirely on my phone. Uploading files into GitHub Codespaces from a mobile browser did not work. I solved it by uploading the zip to my GitHub repository, running git pull in the Codespace, and unzipping it with the terminal.
+
 
 Note: the enquiry form is a demonstration. No message is sent.
